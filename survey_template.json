@@ -1,0 +1,118 @@
+{
+    "survey": [
+        {
+            "section": "Needs",
+            "questions": [
+                {
+                    "type": "multi-choice",
+                    "question": "What is the primary reason for your purchase?",
+                    "options": [
+                        "Replacement",
+                        "Upgrade",
+                        "Remodel",
+                        "Gift"
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "Product Clusters",
+            "questions": [
+                {
+                    "type": "multiple-choice",
+                    "question": "Which product categories are you interested in?",
+                    "options": [
+                        "Quick Pickers",
+                        "Storage Solvers",
+                        "Lasting Comfort"
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "Triggers",
+            "questions": [
+                {
+                    "type": "multiple-choice",
+                    "question": "What factors trigger you to consider a purchase?",
+                    "options": [
+                        "Price",
+                        "Time",
+                        "Season",
+                        "Event",
+                        "Retailer",
+                        "Budget"
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "Missions",
+            "questions": [
+                {
+                    "type": "single-choice",
+                    "question": "What best describes your shopping intent?",
+                    "options": [
+                        "Solution Seeking",
+                        "Recreational shopping"
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "Touchpoints",
+            "questions": [
+                {
+                    "type": "multiple-choice",
+                    "question": "Where do you usually learn about our products?",
+                    "options": [
+                        "Brand website",
+                        "Store",
+                        "Social Media",
+                        "Online Stores"
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "Journey Phases",
+            "questions": [
+                {
+                    "type": "multiple-choice",
+                    "question": "Which of these phases do you usually go through when making a purchase?",
+                    "options": [
+                        "Browsing, Filtering, Comparing",
+                        "Exploration, Learning",
+                        "Committing, Completion"
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "Place of Purchase",
+            "questions": [
+                {
+                    "type": "single-choice",
+                    "question": "Where do you prefer to complete your purchase?",
+                    "options": [
+                        "Store",
+                        "Online"
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "Inspiration",
+            "questions": [
+                {
+                    "type": "mutiple-choice",
+                    "question": "Is this a new question?",
+                    "options": [
+                        "Yes",
+                        "No"
+                    ]
+                }
+            ]
+        }
+    ]
+}
