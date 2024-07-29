@@ -21,9 +21,7 @@ The objective of this repository is to fulfil the following requirement -
 
 # Survey Template Application (Requirement #1)
 
-This repository contains the source code for a Proof of Concept (PoC) survey template application. It demonstrates how to set up, run, and interact with a simple survey application using Python and FastAPI along with the design diagram.
-
-\*\* My assumption is HPS platform is a consumer survey platform where we can gather consumer journey experience. However there would be multiple ways to capture various sentimates and behaviours of consumer while doing online shopping. Especially on the shopping portal, the user tracking data, conversion details can be captured.
+I believe the HPS platform serves as a tool for collecting data on the consumer's shopping journey through surveys. Nevertheless, there are numerous methods for documenting different sentiments and actions of consumers when they shop online. Particularly on the shopping website, it's possible to collect information on user activity and transaction specifics.
 
 ## Solution Design
 
@@ -42,6 +40,7 @@ The solution has two interfaces admin and non-admin. Following is the flow diagr
 ![](images/HPS-solution-design.png?raw=true)
 
 ## Getting Started
+This repository contains the source code for a Proof of Concept (PoC) survey template application. It demonstrates how to set up, run, and interact with a simple survey application using Python and FastAPI along with the design diagram.
 
 Follow these instructions to get the application running on your local machine for development and testing purposes.
 
@@ -306,10 +305,11 @@ Preferred architecture - _Kappa Architecture_ as this  easy to maintain and impl
 Coffee cups can be determined by doing a team survey however the below numbers are completely based on assumption.
 
 Assuming everyone in the team consume coffee
+
 Here is a rough estimation
 
 ```
-2Cups / Person
-1 Sprint = 2 Weeks = 10Days
+2Cups / Person / Day
+1 Sprint = 2 Weeks = 10 Working Days
 2 Cups/ x 10 Days x (2 FE + 2 BE + 4 DE + 2 DevOps + 1 PO) = 220 Cups
 ```
