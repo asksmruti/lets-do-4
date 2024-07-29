@@ -23,6 +23,9 @@ The objective of this repository is to fulfil the following requirement -
 
 I believe the HPS platform serves as a tool for collecting data on the consumer's shopping journey through surveys. Nevertheless, there are numerous methods for documenting different sentiments and actions of consumers when they shop online. Particularly on the shopping website, it's possible to collect information on user activity and transaction specifics.
 
+## Getting Started
+This repository contains the source code for a Proof of Concept (PoC) survey template application. It demonstrates how to set up, run, and interact with a simple survey application using Python and FastAPI along with the design diagram.
+
 ## Solution Design
 
 The solution has two interfaces admin and non-admin. Following is the flow diagram for both type of users.
@@ -39,8 +42,7 @@ The solution has two interfaces admin and non-admin. Following is the flow diagr
 
 ![](images/HPS-solution-design.png?raw=true)
 
-## Getting Started
-This repository contains the source code for a Proof of Concept (PoC) survey template application. It demonstrates how to set up, run, and interact with a simple survey application using Python and FastAPI along with the design diagram.
+
 
 Follow these instructions to get the application running on your local machine for development and testing purposes.
 
